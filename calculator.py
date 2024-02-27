@@ -17,7 +17,7 @@ def get_Median(a,b):
 def get_Remainder(a,b):
   return a//b
 
-def get_Abs(num):
+def get_Ab  s(num):
   if num>=0:
     return num
   else:
@@ -25,3 +25,6 @@ def get_Abs(num):
 
 def get_Percent(a, b):
   return (a/b) * 100
+
+def getSum_ver1(n):
+    return n(n+1)/2
